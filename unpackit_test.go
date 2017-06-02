@@ -15,8 +15,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/bradfitz/iter"
-	"github.com/hooklift/assert"
+	"github.com/gy-games-libs/iter"
+	"github.com/gy-games-libs/assert"
 )
 
 func TestUnpack(t *testing.T) {

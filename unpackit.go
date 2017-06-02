@@ -22,10 +22,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dsnet/compress/bzip2"
-	gzip "github.com/klauspost/pgzip"
-	"github.com/pkg/errors"
-	"github.com/ulikunitz/xz"
+	"github.com/gy-games-libs/compress/bzip2"
+	gzip "github.com/gy-games-libs/pgzip"
+	"github.com/gy-games-libs/errors"
+	"github.com/gy-games-libs/xz"
 )
 
 var (
